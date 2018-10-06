@@ -1,2 +1,5 @@
-# UserDetailIOS
-Profile Page and user update ,Swift 4
+# UserLoginRegisterUpdateIOS
+Profile Page with user update ,Swift 4
+Register Page
+Login Page
+
