@@ -1,5 +1,3 @@
 # UserLoginRegisterUpdateIOS
-#Profile Page with user update ,Swift 4
-#Register Page
-#Login Page
+Profile Page with user update,Register Page, Login Page. Swift 4.
 
